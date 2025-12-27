@@ -7,14 +7,14 @@ It features a realistic spider clock hand animation with multiple themes and smo
 
 ---
 
-## Live Demo
+# 🚀 Live Demo
 
 You can view the live demo here:  
  https://ahmad-muavia.github.io/SPIDER-CLOCK/  
 
 ---
 
-## Features
+# Features
 
 - **Spider-shaped animated clock hands** using SVG.
 - Smooth **GSAP animations** for hour, minute, and second hands.
@@ -28,32 +28,30 @@ You can view the live demo here:
 - Responsive design, works across all modern browsers.
 - **Interactive GitHub corner badge** for source link.
 - Shadow and glow effects for realistic 3D appearance using SVG filters.
-
+ ```
+  BUTTON FEATURE
+  
+ Click the "Change Theme" button (top-left) to cycle through available themes.
+ Observe the animated spider clock hands representing real-time hour, minute, and second.
+ The spider body and clock face adapt colors based on selected theme.
+ Background gradient changes according to theme for a dynamic effect.
+```
 ---
 
-## Screenshots
+# Screenshots
 
 *Add screenshots of your clock with different themes here for better visualization.*
 
 ---
 
-## Installation
-
-1. **Clone the repository**:
-
+# ⚡ Installation
 ```bash
+Clone the repository:
 git clone https://github.com/Ahmad-Muavia/spider-clock.git
 Open index.html in your browser.
 ```
 
-# Feature
-
-- Click the "Change Theme" button (top-left) to cycle through available themes.
-- Observe the animated spider clock hands representing real-time hour, minute, and second.
-- The spider body and clock face adapt colors based on selected theme.
-- Background gradient changes according to theme for a dynamic effect.
-
-# How It Works
+# ⚙️ How It Works
 
 - SVG Elements: The clock, spider, and hands are built using scalable SVG paths.
 - GSAP Animations: Smooth rotation of the hour, minute, and second hands.
@@ -61,7 +59,7 @@ Open index.html in your browser.
 - SVG Filters: Shadows and glows are applied to spider and hands for a 3D look.
 - Theme Button: JavaScript changes CSS variables dynamically to switch themes.
 
-# Technologies Used
+# 💻 Technologies Used
 
 - HTML5
 - CSS3
@@ -69,7 +67,7 @@ Open index.html in your browser.
 - SVG Graphics
 - GSAP (GreenSock Animation Platform)
 
-# License
+# 📄 License
 This project is licensed under the MIT License.
 
 **Author**
