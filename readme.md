@@ -1,5 +1,6 @@
 <h1 align="center"> SPIDER-CLOCK 🕷️ </h1>
 
+---
 
 **Spider Clock** is a visually stunning, animated spider-themed clock built with **HTML, CSS, SVG, and GSAP**.  
 It features a realistic spider clock hand animation with multiple themes and smooth transitions.  
@@ -9,7 +10,7 @@ It features a realistic spider clock hand animation with multiple themes and smo
 ## Live Demo
 
 You can view the live demo here:  
-[Spider Clock Demo](https://your-live-demo-link.com)  
+ https://ahmad-muavia.github.io/SPIDER-CLOCK/  
 
 ---
 
